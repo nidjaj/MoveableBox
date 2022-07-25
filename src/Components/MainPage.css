@@ -1,0 +1,25 @@
+.header {
+    padding: 10px
+}
+
+.header-left {
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.header-right{
+    margin-left: auto;
+}
+
+.boxContainer {
+display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    border: 1px solid black;
+    width: 95vw;
+    height: 80vh;
+    background-color:burlywood;
+
+}
