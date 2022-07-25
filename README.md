@@ -1,3 +1,9 @@
+# Basic Requirement For Running The project on Localhost
+
+1. You need to install the Dependancy that is required in application by using `npm install`
+2. Then for running the project use `npm start` command.
+3. It will start the application on your localhost server the default port is 3000.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
