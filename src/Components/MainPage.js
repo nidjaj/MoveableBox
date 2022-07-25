@@ -101,4 +101,8 @@ const Boxes = () => {
   )
 }
 
+<<<<<<< HEAD
 export default MainPage
+=======
+export default MainPage
+>>>>>>> 6c0d3f7f6470d1dec635b313df40b7f55266820f

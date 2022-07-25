@@ -9,17 +9,29 @@
 
 }
 
+<<<<<<< HEAD
 .header-right {
+=======
+.header-right{
+>>>>>>> 6c0d3f7f6470d1dec635b313df40b7f55266820f
     margin-left: auto;
 }
 
 .boxContainer {
+<<<<<<< HEAD
     display: flex;
+=======
+display: flex;
+>>>>>>> 6c0d3f7f6470d1dec635b313df40b7f55266820f
     flex-wrap: wrap;
     position: relative;
     border: 1px solid black;
     width: 95vw;
     height: 80vh;
+<<<<<<< HEAD
     background-color: burlywood;
+=======
+    background-color:burlywood;
+>>>>>>> 6c0d3f7f6470d1dec635b313df40b7f55266820f
 
 }

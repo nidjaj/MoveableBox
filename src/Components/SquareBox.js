@@ -1,6 +1,11 @@
 import React, {useRef}from 'react'
+<<<<<<< HEAD
 import './SquareBox.css'
 import {KEYBOARD_CONTROLS} from '../Constant/KeyBoardcontrols';
+=======
+import './Squarebox.css'
+import {KEYBOARD_CONTROLS} from '../Constant/KeyboardControls';
+>>>>>>> 6c0d3f7f6470d1dec635b313df40b7f55266820f
 
 const OFFSET = 5;
 
@@ -79,4 +84,8 @@ function SquareBox(props) {
   )
 }
 
+<<<<<<< HEAD
 export default SquareBox
+=======
+export default SquareBox
+>>>>>>> 6c0d3f7f6470d1dec635b313df40b7f55266820f

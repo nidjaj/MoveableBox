@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 .basic {
     background: red;
     box-shadow: none;
     width: 10vw;
     height: 5vh;
+=======
+.Add-box{
+    background: red;
+    box-shadow: none;
+    width: 10vw;
+    height: 7vh;
+>>>>>>> 6c0d3f7f6470d1dec635b313df40b7f55266820f
     margin-bottom: 5vh;
 }
